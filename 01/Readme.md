@@ -37,5 +37,6 @@ When calculating the mean, highest, and lowest price of the stock, please use ad
 To understand how to read data from a .CSV file, you can download the sample code, ReadCSVFile.cs from Canvas.
 What File To Turn In and How to Turn In Your Work using Canvas
 
+
 You must turn in your C# program source code file(s) which must be named as follows:
 Use this format: HW1_lastname_firstname.zip.
